@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7b2fff,100:00ffcc&height=160&section=header&text=EMANUEL%20PERACCHIA&fontColor=00ffcc&fontSize=36&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descColor=c0c0e0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=160&section=header&text=Emanuel%20Peracchia&fontColor=00ffcc&fontSize=36&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=65&descColor=c0c0e0&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=%24+./run+backend+--stack+java-spring;JWT+auth+%7C+REST+APIs+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Clean+Architecture;Open+to+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=800&color=00FFCC&center=true&vCenter=true&width=500&lines=Java+21+%2B+Spring+Boot+3.x;JWT+auth+%7C+REST+APIs+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Clean+Architecture;Open+to+opportunities+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,7 +49,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
 
-### 🛠️ DevOps y Tools
+### 🛠️ DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -61,10 +61,6 @@
 
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🤖 AI Local
-
-![Ollama](https://img.shields.io/badge/Ollama-7b2fff?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -78,7 +74,7 @@
 |---|---|---|
 | **⚙️ Full Stack Auth System** | JWT auth · RBAC · Spring Security · REST API · React frontend · CI/CD con Gitea Actions | `Java` `Spring Boot` `JWT` `PostgreSQL` `Docker` `React` |
 | **🐚 Custom Unix Shell** | CodeCrafters challenge · shell desde cero en Java · stdout redirection · pipes | `Java` `Systems Programming` |
-| **🤖 AI Pain Analyzer** | Pipeline de análisis de negocio con inferencia local via Ollama · scraping · export PDF/CSV/XLSX | `Spring Boot` `Ollama` `LangChain4j` `PostgreSQL` |
+| **🤖 AI Pain Analyzer** | Pipeline de análisis de negocio con inferencia local via Ollama · scraping · export PDF/CSV/XLSX | `Spring Boot` `Ollama` `LangChain4j` |
 
 </div>
 
@@ -102,11 +98,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelperacchia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=7b2fff&text_color=c0c0e0&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelperacchia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c0c0e0&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Streak](https://streak-stats.demolab.com?user=emanuelperacchia&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7b2fff&ring=00ffcc&fire=ff2f7b&currStreakNum=00ffcc&sideNums=c0c0e0&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=4a4a7a)
+![Streak](https://streak-stats.demolab.com?user=emanuelperacchia&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,24 +114,25 @@
 
 ```
 📡 Network      Pi-hole · WireGuard VPN · Caddy Reverse Proxy
-🔐 Security     Vaultwarden · JWT Auth
+🔐 Security     Vaultwarden
 📊 Monitoring   Grafana · Prometheus
 🎬 Media        Jellyfin
 🔧 Dev Tools    Gitea · Gitea Actions CI/CD
-🤖 AI Local     Ollama (qwen2.5-coder) · Continue.dev · ChromaDB
-⚙️  Automation   n8n workflows
+🤖 AI Local     Ollama · Continue.dev · ChromaDB
+⚙️  Automation   n8n
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:7b2fff,100:0a0a0f&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" />
 
 *"You know you are working on clean code when each routine you read is pretty much what you expected."*
 
-**Robert C. Martin**
+**— Robert C. Martin**
 
 </div>
+
 
 
