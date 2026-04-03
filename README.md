@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- NEON HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7b2fff,100:00ffcc&height=160&section=header&text=EMANUEL%20PERACCHIA&fontColor=00ffcc&fontSize=36&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descColor=c0c0e0&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=%24+./run+backend+--stack+java-spring;%E2%9C%94+JWT+auth+%7C+REST+APIs+%7C+PostgreSQL;%E2%9C%94+Docker+%7C+CI%2FCD+%7C+Clean+Architecture;%E2%9C%94+%F0%9F%9F%A2+Open+to+opportunities)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=%24+./run+backend+--stack+java-spring;JWT+auth+%7C+REST+APIs+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Clean+Architecture;Open+to+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuelcodes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelperacchia1@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ema.peracchia)
-[![Visits](https://komarev.com/ghpvc/?username=emanuelperacchia&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)](https://github.com/emanuelperacchia)
+[![Profile Views](https://komarev.com/ghpvc/?username=emanuelperacchia&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)](https://github.com/emanuelperacchia)
 
 </div>
 
@@ -21,11 +21,11 @@
 {
   "name": "Emanuel Peracchia",
   "role": "Backend Developer Jr.",
-  "location": "Villa María, Córdoba, Argentina 🇦🇷",
-  "education": "Oracle Next Education (ONE) · Alura Latam",
+  "location": "Villa Maria, Cordoba, Argentina",
+  "education": "Oracle Next Education (ONE) - Alura Latam",
   "stack": ["Java 21", "Spring Boot 3.x", "PostgreSQL", "Docker"],
   "interests": ["Scalable APIs", "Local AI", "Clean Architecture", "Homelab"],
-  "status": "🟢 Open to opportunities"
+  "status": "Open to opportunities"
 }
 ```
 
@@ -36,6 +36,7 @@
 <div align="center">
 
 ### 💻 Backend
+
 ![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -43,23 +44,27 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🗄️ Data
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps y Tools
+
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 🌐 Frontend (integración fullstack)
+### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 AI & Local Inference
-![Ollama](https://img.shields.io/badge/Ollama-7b2fff?style=for-the-badge&logo=ollama&logoColor=white)
+### 🤖 AI Local
+
+![Ollama](https://img.shields.io/badge/Ollama-7b2fff?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -72,7 +77,7 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **⚙️ Full Stack Auth System** | JWT auth · RBAC · Spring Security · REST API · React frontend · CI/CD con Gitea Actions | `Java` `Spring Boot` `JWT` `PostgreSQL` `Docker` `React` |
-| **🐚 Custom Unix Shell** | CodeCrafters challenge · implementación de shell desde cero en Java · stdout redirection · pipes | `Java` `Systems Programming` |
+| **🐚 Custom Unix Shell** | CodeCrafters challenge · shell desde cero en Java · stdout redirection · pipes | `Java` `Systems Programming` |
 | **🤖 AI Pain Analyzer** | Pipeline de análisis de negocio con inferencia local via Ollama · scraping · export PDF/CSV/XLSX | `Spring Boot` `Ollama` `LangChain4j` `PostgreSQL` |
 
 </div>
@@ -87,7 +92,7 @@
 
 🎓 **Oracle Next Education (ONE) — Edición 7** · Formación completa en desarrollo backend con Java
 
-☁️ **Homelab con 20+ servicios self-hosted** · Vaultwarden · Gitea · Grafana · Pi-hole · WireGuard · Jellyfin · n8n · Ollama
+🖥️ **Homelab con 20+ servicios self-hosted** · Vaultwarden · Gitea · Grafana · Pi-hole · WireGuard · Jellyfin · n8n · Ollama
 
 </div>
 
@@ -97,12 +102,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emanuelperacchia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=7b2fff&text_color=c0c0e0&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c0c0e0&langs_count=8&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelperacchia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=7b2fff&text_color=c0c0e0&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c0c0e0&langs_count=8)
 
-<img width="500" src="https://nirzak-streak-stats.vercel.app/?user=emanuelperacchia&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7b2fff&ring=00ffcc&fire=ff2f7b&currStreakNum=00ffcc&sideNums=c0c0e0&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=4a4a7a" />
+![Streak](https://streak-stats.demolab.com?user=emanuelperacchia&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7b2fff&ring=00ffcc&fire=ff2f7b&currStreakNum=00ffcc&sideNums=c0c0e0&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=4a4a7a)
 
 </div>
 
@@ -126,10 +130,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:7b2fff,100:0a0a0f&height=100&section=footer&text=&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:7b2fff,100:0a0a0f&height=100&section=footer&animation=fadeIn" />
 
-*"Clean code is not written by following a set of rules. You know you're working on clean code when each routine you read is pretty much what you expected."*
-**— Robert C. Martin**
+*"You know you are working on clean code when each routine you read is pretty much what you expected."*
+
+**Robert C. Martin**
 
 </div>
+
 
