@@ -1,24 +1,135 @@
-# 💫 About Me:
-👋 Hola, soy Emanuel Peracchia<br><br>💻 Desarrollador Backend Jr. especializado en Java + Spring Boot<br>📍 Villa María, Córdoba, Argentina<br><br>🚀 Sobre mí<br><br>Soy desarrollador backend graduado del programa Oracle Next Education (ONE) en colaboración con Alura Latam.<br><br>Tengo experiencia construyendo APIs RESTful, trabajando con bases de datos relacionales y consumiendo servicios externos.<br><br>🥈 Obtuve el 2º puesto en un Hackatón de Alura, resolviendo desafíos en tiempo real con foco en eficiencia y diseño de APIs.<br><br>Me apasiona crear soluciones escalables, escribir código limpio y seguir aprendiendo constantemente nuevas tecnologías.<br><br>Actualmente estoy buscando mi primera oportunidad profesional como Backend Developer.<br><br>🧠 Tecnologías y herramientas<br>💻 Backend<br>Java<br>Spring Boot<br>Spring Data JPA<br>REST APIs<br>🗄️ Bases de datos<br>PostgreSQL<br>MySQL<br>🔧 Herramientas<br>Git & GitHub<br>Postman<br>Maven<br>IntelliJ IDEA<br>🤖 Intereses actuales<br>Integración de IA en aplicaciones backend<br>Mejora de productividad con herramientas de IA<br>Arquitectura de software<br>🧩 Experiencia<br>💼 Desarrollo Backend (Freelance / Proyectos Personales)<br><br>📅 Enero 2024 – Actualidad<br><br>Desarrollo de APIs REST con Java y Spring Boot<br>Diseño y gestión de bases de datos<br>Consumo de APIs externas<br>Testing de endpoints con Postman<br>Publicación y versionado de proyectos en GitHub<br>Trabajo remoto y cumplimiento de objetivos<br>📚 Educación<br><br>🎓 Programa ONE - Oracle + Alura Latam<br>Formación en Desarrollo Backend con Java<br><br>🏆 Logros<br>🥈 2º puesto en Hackatón de Alura<br>✔️ Formación completa en Java y Spring Boot<br>✔️ Experiencia práctica en proyectos reales<br>📫 Contacto<br><br>📧 Email: emanuelperacchia1@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/emanuelcodes<br><br>⚡ Dato curioso<br><br>Me interesa combinar desarrollo backend con inteligencia artificial para crear soluciones más eficientes y automatizadas.<br><br>📊 GitHub Stats<br><br><br><br><br>🔥 Lenguajes más usados<br><br><br><br><br>🚀 Objetivo<br><br>Seguir creciendo como desarrollador backend, aportar valor en equipos reales y especializarme en arquitecturas escalables con Java.
+<div align="center">
 
+<!-- NEON HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7b2fff,100:00ffcc&height=160&section=header&text=EMANUEL%20PERACCHIA&fontColor=00ffcc&fontSize=36&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descColor=c0c0e0&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ema.peracchia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/emanuelcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelperacchia1@gmail.com) 
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=%24+./run+backend+--stack+java-spring;%E2%9C%94+JWT+auth+%7C+REST+APIs+%7C+PostgreSQL;%E2%9C%94+Docker+%7C+CI%2FCD+%7C+Clean+Architecture;%E2%9C%94+%F0%9F%9F%A2+Open+to+opportunities)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emanuelperacchia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emanuelperacchia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emanuelperacchia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuelcodes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelperacchia1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ema.peracchia)
+[![Visits](https://komarev.com/ghpvc/?username=emanuelperacchia&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)](https://github.com/emanuelperacchia)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emanuelperacchia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emanuelperacchia&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```json
+{
+  "name": "Emanuel Peracchia",
+  "role": "Backend Developer Jr.",
+  "location": "Villa María, Córdoba, Argentina 🇦🇷",
+  "education": "Oracle Next Education (ONE) · Alura Latam",
+  "stack": ["Java 21", "Spring Boot 3.x", "PostgreSQL", "Docker"],
+  "interests": ["Scalable APIs", "Local AI", "Clean Architecture", "Homelab"],
+  "status": "🟢 Open to opportunities"
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🗄️ Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### 🌐 Frontend (integración fullstack)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🤖 AI & Local Inference
+![Ollama](https://img.shields.io/badge/Ollama-7b2fff?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **⚙️ Full Stack Auth System** | JWT auth · RBAC · Spring Security · REST API · React frontend · CI/CD con Gitea Actions | `Java` `Spring Boot` `JWT` `PostgreSQL` `Docker` `React` |
+| **🐚 Custom Unix Shell** | CodeCrafters challenge · implementación de shell desde cero en Java · stdout redirection · pipes | `Java` `Systems Programming` |
+| **🤖 AI Pain Analyzer** | Pipeline de análisis de negocio con inferencia local via Ollama · scraping · export PDF/CSV/XLSX | `Spring Boot` `Ollama` `LangChain4j` `PostgreSQL` |
+
+</div>
+
+---
+
+## 🏆 Logros
+
+<div align="center">
+
+🥈 **2° Puesto — Hackathon Alura** · Resolución de desafíos en tiempo real con foco en APIs y eficiencia
+
+🎓 **Oracle Next Education (ONE) — Edición 7** · Formación completa en desarrollo backend con Java
+
+☁️ **Homelab con 20+ servicios self-hosted** · Vaultwarden · Gitea · Grafana · Pi-hole · WireGuard · Jellyfin · n8n · Ollama
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emanuelperacchia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&icon_color=7b2fff&text_color=c0c0e0&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelperacchia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffcc&text_color=c0c0e0&langs_count=8&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img width="500" src="https://nirzak-streak-stats.vercel.app/?user=emanuelperacchia&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7b2fff&ring=00ffcc&fire=ff2f7b&currStreakNum=00ffcc&sideNums=c0c0e0&currStreakLabel=7b2fff&sideLabels=7b2fff&dates=4a4a7a" />
+
+</div>
+
+---
+
+## 🏠 Homelab Stack
+
+> Corriendo en hardware reciclado. Porque la nube debería ser opcional.
+
+```
+📡 Network      Pi-hole · WireGuard VPN · Caddy Reverse Proxy
+🔐 Security     Vaultwarden · JWT Auth
+📊 Monitoring   Grafana · Prometheus
+🎬 Media        Jellyfin
+🔧 Dev Tools    Gitea · Gitea Actions CI/CD
+🤖 AI Local     Ollama (qwen2.5-coder) · Continue.dev · ChromaDB
+⚙️  Automation   n8n workflows
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:7b2fff,100:0a0a0f&height=100&section=footer&text=&animation=fadeIn" />
+
+*"Clean code is not written by following a set of rules. You know you're working on clean code when each routine you read is pretty much what you expected."*
+**— Robert C. Martin**
+
+</div>
+
